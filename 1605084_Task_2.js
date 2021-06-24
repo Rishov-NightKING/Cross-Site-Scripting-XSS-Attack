@@ -38,7 +38,7 @@
 			Ajax.setRequestHeader("Host","www.xsslabelgg.com");
 			Ajax.setRequestHeader("Content-Type",
 			"application/x-www-form-urlencoded");
-			Ajax.send(content);
+			Ajax.send(contentProfileEdit);
 		}
 	}
 </script>
