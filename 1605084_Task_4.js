@@ -16,7 +16,7 @@
 
 
 		//JavaScript code to access user name, user guid, Time Stamp __elgg_ts
-		var name = "&name=" + elgg.session.user.name;
+		var name = "&name=" + elgg.session.user.username;
 		var guid = "&guid=" + elgg.session.user.guid;
 
 		//and Security Token __elgg_token
